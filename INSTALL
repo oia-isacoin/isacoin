@@ -1,0 +1,9 @@
+Building Isacoin
+
+See doc/readme-qt.rst for instructions on building Isacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Isacoin.
+
+See doc/build-*.txt for instructions on building isacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Isacoin.
