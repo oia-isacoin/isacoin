@@ -11,7 +11,7 @@ What is Isacoin?
 
 Isacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2 minute block targets
- - subsidy halves in 840k blocks (~4 years)
+ - subsidy halves in 840k blocks (~2 years)
  - ~21 million total coins
 
 The rest is the same as Bitcoin.
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/isacoin-project/isacoin/tags) are created
+completely stable. [Tags](https://github.com/oia-isacoin/isacoin/tags) are created
 regularly to indicate new official, stable release versions of Isacoin.
 
 Testing
