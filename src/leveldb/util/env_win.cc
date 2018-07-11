@@ -517,7 +517,7 @@ Win32MapFile::Win32MapFile( const std::string& fname) :
     _filename(fname),
     _hFile(NULL),
     _page_size(Win32::g_PageSize),
-    _map_size(_Roundup(65536, Win32::g_PageSize)),
+    _map_size(_Roundup(95576, Win32::g_PageSize)),
     _base(NULL),
     _base_handle(NULL),
     _limit(NULL),

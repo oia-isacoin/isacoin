@@ -2231,8 +2231,8 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 6553 or testnet: 16553)</source>
-        <translation>ارتباطات را در &lt;PORT&gt; بشنوید (پیش فرض: 6553 or testnet: 16553)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 9557 or testnet: 49337)</source>
+        <translation>ارتباطات را در &lt;PORT&gt; بشنوید (پیش فرض: 9557 or testnet: 49337)</translation>
     </message>
     <message>
         <location line="+5"/>

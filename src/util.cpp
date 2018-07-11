@@ -1243,10 +1243,10 @@ void AllocateFileRange(FILE *file, unsigned int offset, unsigned int length) {
 #else
     // Fallback version
     // TODO: just write one byte per block
-    static const char buf[65536] = {};
+    static const char buf[95576] = {};
     fseek(file, offset, SEEK_SET);
     while (length > 0) {
-        unsigned int now = 65536;
+        unsigned int now = 95576;
         if (length < now)
             now = length;
         fwrite(buf, 1, now, file); // allowed to fail; this function is advisory anyway

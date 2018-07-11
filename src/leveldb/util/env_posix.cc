@@ -252,7 +252,7 @@ class PosixMmapFile : public WritableFile {
       : filename_(fname),
         fd_(fd),
         page_size_(page_size),
-        map_size_(Roundup(65536, page_size)),
+        map_size_(Roundup(95576, page_size)),
         base_(NULL),
         limit_(NULL),
         dst_(NULL),

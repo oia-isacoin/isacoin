@@ -33,7 +33,7 @@ OptionsDialog::OptionsDialog(QWidget *parent) :
 
     ui->proxyIp->setEnabled(false);
     ui->proxyPort->setEnabled(false);
-    ui->proxyPort->setValidator(new QIntValidator(1, 65535, this));
+    ui->proxyPort->setValidator(new QIntValidator(1, 95575, this));
 
     ui->socksVersion->setEnabled(false);
     ui->socksVersion->addItem("5", 5);
