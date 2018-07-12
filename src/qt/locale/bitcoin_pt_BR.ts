@@ -2271,8 +2271,8 @@ Endereço: %4</translation>
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9557 or testnet: 49337)</source>
-        <translation>Escutar conexões JSON-RPC na porta &lt;porta&gt; (padrão: 9557 ou testnet: 49337)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 6552 or testnet: 16552)</source>
+        <translation>Escutar conexões JSON-RPC na porta &lt;porta&gt; (padrão: 6552 ou testnet: 16552)</translation>
     </message>
     <message>
         <location line="+37"/>
