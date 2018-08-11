@@ -1,13 +1,13 @@
 Isacoin integration/staging tree
 ================================
 
-http://www.omisaal.com/isacoin/
+http://www.omisaal.com/isacoin.html
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2017-     Isacoin Developers
+Copyright (c) 2017-2018 Isacoin Developers
 
-Please contact omisaal@mail.com for any queries. request for more information, request to start a new peer server, request to become the administrator or request to anything.
+Please contact isacoin@omisaal.com for any queries. request for more information, request to start a new peer server, request to become the administrator or request to anything.
 
 What is Isacoin?
 ----------------
@@ -22,7 +22,7 @@ The rest is the same as Bitcoin.
  - 576 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Isacoin client sofware, see http://www.omisaal.com/isacoin/
+the Isacoin client sofware, see http://www.omisaal.com/isacoin.html
 
 License
 -------
